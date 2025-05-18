@@ -1,0 +1,5 @@
+/* Style CSS for backend dev */
+@media (min-width: 320px) and (max-width: 991px) {
+    .site-cover {height: 445px;}
+    .site-slider {display: none;}
+}
